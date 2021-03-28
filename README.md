@@ -1,1 +1,1 @@
-"# JS_Projects - личный не жалко если что)" 
+# JS_Projects 
