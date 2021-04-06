@@ -17,12 +17,18 @@
   "author": "shalser",
   "license": "ISC",
   "dependencies": {
+    "ecstatic": ">=4.1.3",
+    "axios": ">=0.21.1",
+    "socket.io": ">=2.4.0",
     "del": "^3.0.0",
     "gulp": "^4.0.2",
     "http-server": "^0.12.3",
     "save-dev": "0.0.1-security"
   },
   "devDependencies": {
+    "ecstatic": ">=4.1.3",
+    "axios": ">=0.21.1",
+    "socket.io": ">=2.4.0",
     "browser-sync": "^2.4.0",
     "gulp": "^4.0.0",
     "gulp-autoprefixer": "^6.0.0",
