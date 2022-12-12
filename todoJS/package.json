@@ -31,7 +31,7 @@
     "axios": ">=0.21.2",
     "socket.io": ">=2.4.0",
     "socket.io-parser": ">=3.3.2",
-    "browser-sync": "^2.4.0",
+    "browser-sync": "^2.26.13",
     "xmlhttprequest-ssl": ">=1.6.2",
     "gulp": "^4.0.0",
     "gulp-autoprefixer": "^6.0.0",
