@@ -63,3 +63,52 @@
     display: none;
 }
 
+.footer {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    top: 894px;
+}
+
+@media (max-width: 1919px) {
+    .footer {
+        top: -20px;
+    }
+}
+
+@media (min-width: 320px) and (max-width: 450px) {
+    .footer {
+        top: 35px;
+    }
+}
+
+.footerLogo {
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    left: -510px;
+    position: relative;
+}
+
+.footerText {
+    font-weight: 500;
+    margin-right: 5px;
+}
+
+.footerImg {
+    width: 30px;
+}
+
+.copyrights {
+    width: 20%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    left: 180px;
+}
+
+
